@@ -3,3 +3,5 @@ Hello World
 New alpha branch.
 
 Works fine now. I have added from master. Great!!!
+
+New line from master branch;
