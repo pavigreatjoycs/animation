@@ -1,6 +1,0 @@
-Hello World 
-
-New alpha branch.
-
-Works fine now. I have added from master. Great!!!
-Added from branch myalpha
